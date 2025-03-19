@@ -1,0 +1,13 @@
+site_name: Analisador de Filas de Espera - PMAE e OCIs
+nav:
+  - Início: index.md
+  - Sobre o PMAE e as OCIs: sobre-pmae-oci.md
+  - Sobre o Aplicativo: sobre-aplicativo.md
+  - Instalação: instalacao.md
+  - Uso: uso.md
+  - Criação de Entrada: criacao-arquivo-entrada.md
+  - Estrutura do Projeto: estrutura-projeto.md
+  - Contribuição: contribuicao.md
+  - Licença: licenca.md
+
+theme: readthedocs
